@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Zübeyir Çağlar</h1>
 <h3 align="center">Pixel artist and game designer from Turkey</h3>
+![2f05fd5b58a571a0a900ae2ef9a456d9](https://github.com/user-attachments/assets/b67c3a44-83b6-463b-bf44-9ae64e533c4a)
+
 
 - 🔭 I’m currently working on **Project T**
 
