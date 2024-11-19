@@ -16,6 +16,15 @@
 
 - ⚡ Fun fact **I have a good aim**
 
+
+![jo-jo-jjba](https://github.com/user-attachments/assets/77cbb1d2-8567-4e12-a1a9-5500133e22f8)
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/zubeyrcaglarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zubeyrcaglarr" height="30" width="40" /></a>
